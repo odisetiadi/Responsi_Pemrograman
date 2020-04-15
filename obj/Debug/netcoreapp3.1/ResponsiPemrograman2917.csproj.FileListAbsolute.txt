@@ -1,0 +1,13 @@
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\bin\Debug\netcoreapp3.1\ResponsiPemrograman2917.exe
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\bin\Debug\netcoreapp3.1\ResponsiPemrograman2917.deps.json
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\bin\Debug\netcoreapp3.1\ResponsiPemrograman2917.runtimeconfig.json
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\bin\Debug\netcoreapp3.1\ResponsiPemrograman2917.runtimeconfig.dev.json
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\bin\Debug\netcoreapp3.1\ResponsiPemrograman2917.dll
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\bin\Debug\netcoreapp3.1\ResponsiPemrograman2917.pdb
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.csprojAssemblyReference.cache
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.csproj.CoreCompileInputs.cache
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.AssemblyInfoInputs.cache
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.AssemblyInfo.cs
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.dll
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.pdb
+D:\Semester 2\New folder\ResponsiPemrograman2917\ResponsiPemrograman2917\obj\Debug\netcoreapp3.1\ResponsiPemrograman2917.genruntimeconfig.cache
